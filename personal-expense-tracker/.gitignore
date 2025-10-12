@@ -1,0 +1,35 @@
+# 🔧 Build artifacts
+*.o
+*.out
+*.exe
+*.obj
+*.log
+*.pdb
+*.idb
+*.tlog
+
+# 🧠 IntelliSense and cache
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opendb
+
+# 🗂️ IDE folders
+.vs/
+.vscode/
+.idea/
+
+# 🧪 Debug and user settings
+*.suo
+*.user
+*.vcxproj.*
+*.db
+*.cache
+
+# 🧹 OS junk
+Thumbs.db
+.DS_Store
+
+# 📊 Data files (optional — only if you regenerate them)
+expenses.dat
